@@ -1,5 +1,13 @@
-header {
+@import url("./normalize.css");
+
+nav {
     background-color: #FD739C;
+  }
+
+header {
+    margin: 0;
+    background-color: #FD739C;
+    padding: 50px 0 50px 0; 
   }
 
 #header-text {
@@ -12,4 +20,9 @@ h1, h2 {
 p {
     font-size: 22px;
     line-height: 34px;
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+section {
+    padding: 50px 0 50px 0;
 }
