@@ -1,0 +1,15 @@
+header {
+    background-color: #FD739C;
+  }
+
+#header-text {
+    color: #ffffff;
+  }
+
+h1, h2 {
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+p {
+    font-size: 22px;
+    line-height: 34px;
+}
